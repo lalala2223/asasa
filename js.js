@@ -9,9 +9,9 @@
 let productsArray =[]
 let xhr = new HMLHttpRequest[]
 let url ='https://my-json-server.typicode.com/lalala2223/asasa';
-zhr.open('GET',url+"products")
+zhr.open('GET',url+"/products")
 xhr.responseType="json";
 xhr.onload=function(){
     let products =xhr.responseType;
-    console.log("products")
+    console.log(products)
 }
