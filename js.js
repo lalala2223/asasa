@@ -13,5 +13,6 @@ zhr.open('GET',url+"/products")
 xhr.responseType="json";
 xhr.onload=function(){
     let products =xhr.responseType;
-    console.log(products)
+    console.log(products[0].id)
 }
+xhr.send();
