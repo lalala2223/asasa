@@ -7,7 +7,7 @@
 <button>Buy</button>
 </div> */}
 let productsArray =[]
-let xhr = new HMLHttpRequest[]
+let xhr = new HMLHttpRequest()
 let url ='https://my-json-server.typicode.com/lalala2223/asasa';
 zhr.open('GET',url+"/products")
 xhr.responseType="json";
