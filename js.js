@@ -6,6 +6,7 @@
     <a>seller profile</a><br>
     <button>Buy</button>
 </div> */
+console.log("fdfds")
 let productsArray = [];
 let xhr = new XMLHttpRequest();
 let url = 'https://my-json-server.typicode.com/lalala2223/asasa';
