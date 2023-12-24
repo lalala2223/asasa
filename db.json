@@ -2,8 +2,8 @@
     "users": [
         {
             "id": 1,
-            "name": "Max",
-            "surname": "Bandera",
+            "name": "churka",
+            "surname": "lisisy",
             "photo_url": "https://www.google.com/search?sca_esv=589573751&sxsrf=AM9HkKldkxvEb7D3Xq3nW4l_dO_oCYhBQA:1702220366177&q=lisiy+bobr&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjEkYWCkYWDAxVbbPEDHdISAmEQ0pQJegQIDhAB&biw=1280&bih=593&dpr=1.5#imgrc=qIEJf-w8zJ6AXM",
             "balance": 1000
         },

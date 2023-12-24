@@ -22,11 +22,11 @@ xhr.onload = function(){
             <img src="${products[i].photo_url}">
             <p>Price:${products[i].price}$</p>
             <p>Description ${products[i].description}</p>
-            <a>seller profile</a><br>
+            <a href="seller.html?id=${products[i].author_id}">seller profile</a><br>
             <button>Buy</button>
         </div>
         `
         $("#products-grid").append(html);
     }
 }
-xhr.send()
+xhr.send()      
