@@ -1,0 +1,54 @@
+body{
+    background-color:white;
+
+}
+.sellersprod {
+    color: black;
+    width: 290px;
+    height: 400px;
+    border: 1px,solid black;
+    border-radius: 10px;
+}
+#rbm{
+    center.sellerprofile{
+        margin: 0 auto;
+        background-color: rgb(202, 59, 59);
+        border: 1px solid black;
+        border-radius: 10px;
+        color: black;
+        width: 330px;
+        height: 400px;
+        padding: 12px;
+        text-align: center;
+    }
+    img{
+        height: 25%;
+        width: 25%;
+        border-radius: 50%;
+        text-align: center;
+    }
+    .prod{
+        text-align: right;
+    }
+    .markp{
+        text-align: left;
+    }
+    .b{
+       padding-top: 70px;
+    }
+    .items{
+        margin: 0 auto;
+        margin-top: 40px;
+        background-color: rgb(202, 59, 59);
+        border: 1px solid black;
+        border-radius: 10px;
+        color: black;
+        width: 85%;
+        height: 250px;
+        padding: 12px;
+    }
+    
+    15:50
+    
+    
+}
